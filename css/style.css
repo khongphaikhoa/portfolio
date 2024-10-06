@@ -63,11 +63,17 @@ contents{
 .contents{
 	
 }
-.gallery{
+.gallery-1000{
 	display:flex;
 	flex-direction: column;
 	flex-wrap: wrap;
 	max-height: 1000px;
+}
+.gallery-1600{
+	display:flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	max-height: 1600px;
 }
 
 
